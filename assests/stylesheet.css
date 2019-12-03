@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    background-image: url(../assests/world.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+   
+}
+
+card-img {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    display: block;
+    border-radius: 100px;
+
+}
+
+.container-contact {
+    color: white;
+
+}
+
